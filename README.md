@@ -13,3 +13,5 @@ List of important references
 | best of best practices | https://gist.github.com/sloria/7001839                  |
 | Complexity Analyzer    | https://github.com/terryyin/lizard                      |
 | Code Count             | https://github.com/AlDanial/cloc                        |
+|Style Guide Enforcement |http://flake8.pycqa.org/en/latest/
+
