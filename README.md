@@ -1,4 +1,6 @@
-# ml_resources
+Practice of Algorithms | machine Learning Coursework
+
+# Machine_Learning_resources
 List of important references
 
 
