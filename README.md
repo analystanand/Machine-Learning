@@ -1,6 +1,13 @@
-Practice of Algorithms | machine Learning Coursework
+# Practice of ML Algorithms
 
-# Machine_Learning_resources
+
+## List of Impemented Algorithms
+1. Perceptron
+2. Multi Layer Perceptron
+3. Decision Tree
+
+
+## Machine_Learning_resources
 List of important references
 
 
